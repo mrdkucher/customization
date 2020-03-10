@@ -13,10 +13,6 @@ alias ls='ls -Gh'
 # no duplicates in history
 export HISTCONTROL=ignoreboth
 
-# Alias for caen ssh
-alias caen='ssh dkucher@login.engin.umich.edu'
-alias eecs_scp='scp dkucher@login.engin.umich.edu:~/Documents/eecs484/p2/project2/StudentFakebookOracle.java ./'
-
 # Alias for raspi
 alias pi_ssh='ssh pi@192.168.0.25'
 
