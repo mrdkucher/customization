@@ -13,8 +13,5 @@ alias ls='ls -Gh'
 # no duplicates in history
 export HISTCONTROL=ignoreboth
 
-# Alias for raspi
-alias pi_ssh='ssh pi@192.168.0.25'
-
 # VIMINIT to source .vim/.vimrc so that .vimrc is not in home directory
 export VIMINIT='source ~/.vim/.vimrc'
